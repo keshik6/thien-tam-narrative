@@ -5,6 +5,8 @@ The purpose of this project is to create a website that highlights the narrative
 
 A visual html mock-up of the website was created to show the modernised looks and highlight its visual appeals. Website sections are as follows: legacy, top story, selected stories about products, call-to-action and basic information.
 
+![Alt text](static/img/github_docs/collage.jpg)
+
 Follow up work needed:
 1. The project was purely a UI mock up. It does not include core functionalities and database connections. The upcoming team is required to build the backend based on the UI mockup that has been created. 
 2. The website is not mobile friendly. So appropriate front-end work needs to be done to make the website mobile friendly.
