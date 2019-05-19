@@ -13,3 +13,11 @@ Follow up work needed:
 Contents of the website need to be updated and/or corrected. A user friendly backend portal needs to be built so that it is easy for anyone to update the content.
 3. Language support for Vietnamese needs to be implemented.
 4. There is a need for a personnel to create the monthly newsletter to be sent to subscribers and/or maintain the website contents. This process can be automated.
+
+The presentation slides can be found at https://docs.google.com/presentation/d/1oN1TCva6bz7YJvtZWvsiRnRLiTnOUNhad-fwchlmt3Y/edit?usp=sharing
+
+How to run the code?
+1. Clone the repository locally
+2. Run **pip install -r requirements.txt** in the terminal
+3. Run **python app.py** in the terminal
+4. Go to http://0.0.0.0:8000/ to access the web application
