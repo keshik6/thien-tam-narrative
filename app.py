@@ -13,21 +13,13 @@ app = Flask(__name__)
 def index():
     return flask.render_template('index.html')
 
-@app.route("/about")
-def about():
-    return flask.render_template('about.html')
-
-@app.route('/causes')
-def causes():
-    return flask.render_template('causes.html')
-
-@app.route('/event')
-def event():
-    return flask.render_template('/event.html')
-
 @app.route('/contact')
 def contact():
     return flask.render_template('contact.html')
+
+@app.route('/product')
+def product():
+    return flask.render_template('product.html')
 
 @app.route('/auction')
 def auction():
